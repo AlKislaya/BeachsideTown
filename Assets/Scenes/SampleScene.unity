@@ -440,6 +440,70 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 297067948479024617, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: c69decf714398914fa7ee0e3bee91de5, type: 2}
+    - target: {fileID: 3377401750957630987, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8f669228b34db489b94c4445bebbe66f, type: 2}
+    - target: {fileID: 6807991323952687578, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8c80283a4abed624c89150bcb9d47750, type: 2}
+    - target: {fileID: 6999008978780888461, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.48735
+      objectReference: {fileID: 0}
+    - target: {fileID: 6999008978780888461, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.48735
+      objectReference: {fileID: 0}
+    - target: {fileID: 6999008978780888461, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.48735
+      objectReference: {fileID: 0}
+    - target: {fileID: 6999008978780888461, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.19099998
+      objectReference: {fileID: 0}
+    - target: {fileID: 6999008978780888461, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.1269249
+      objectReference: {fileID: 0}
+    - target: {fileID: 6999008978780888461, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.024
+      objectReference: {fileID: 0}
+    - target: {fileID: 6999008978780888461, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.93712205
+      objectReference: {fileID: 0}
+    - target: {fileID: 6999008978780888461, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.22878829
+      objectReference: {fileID: 0}
+    - target: {fileID: 6999008978780888461, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0625069
+      objectReference: {fileID: 0}
+    - target: {fileID: 6999008978780888461, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.25602967
+      objectReference: {fileID: 0}
+    - target: {fileID: 6999008978780888461, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 23.378
+      objectReference: {fileID: 0}
+    - target: {fileID: 6999008978780888461, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -14.789
+      objectReference: {fileID: 0}
+    - target: {fileID: 6999008978780888461, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -33.638
+      objectReference: {fileID: 0}
     - target: {fileID: 7398218917080251402, guid: 853ee6db66da89246a05a521c995da71, type: 3}
       propertyPath: m_Name
       value: BeachsideTown_StarterEnvironment
@@ -484,6 +548,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8172438249396954850, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b7d285a48ca3dbc4db06b8931b05c8f1, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
